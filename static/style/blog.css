@@ -1,0 +1,25 @@
+img[alt=art] { height: 16px; }
+
+body {
+  background-color: #cab588;
+}
+
+h1 {
+  color: #362d23;
+}
+
+h2 {
+  color: #4b572f;
+}
+
+h3 {
+  color: #4b572f;
+}
+
+tr {
+  color: #4b572f;
+}
+
+a {
+  color: #a33f35;
+}
