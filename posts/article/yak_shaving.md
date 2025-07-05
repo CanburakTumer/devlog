@@ -7,7 +7,7 @@ tiny>>>
 
 Let me give you the definition of [yak shaving](https://en.wiktionary.org/wiki/yak_shaving) first.
 
-Then jump into the main topic. Lately I decided to pick up my covid era game design and implement it as a video game. The game is a deck building game and my first design was a board game (or table top game). But during my endless scroll of YouTube, I stumbled upon a [Godot Engine]() video and thought "huh, that seems easy"
+Then jump into the main topic. Lately I decided to pick up my covid era game design and implement it as a video game. The game is a deck building game and my first design was a board game (or table top game). But during my endless scroll of YouTube, I stumbled upon a [Godot Engine](https://godotengine.org/) video and thought "huh, that seems easy"
 
 So, I picked up the project again, right? Ha, you bet!
 
@@ -19,7 +19,7 @@ This has been followed by watching a couple Godot videos, a couple "how much we 
 
 While drawing, commuting, walking I also started to think about a story for my "Cardboard Cars" which still is not written anywhere except my brain.
 
-Finally I also decided that maybe I should start a devlog. So I can use my own [Tiniest Website Creator]() on one more place, I can find excuses to record YouTube videos, I can share my drawings without shame. And I built this website.
+Finally I also decided that maybe I should start a devlog. So I can use my own [Tiniest Website Creator](https://github.com/CanburakTumer/tiniest_static_website) on one more place, I can find excuses to record YouTube videos, I can share my drawings without shame. And I built this website.
 
 As you can understand, I still did not write a single line of code.
 
