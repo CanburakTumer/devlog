@@ -1,7 +1,7 @@
 <<<tiny
 title: Canburak Tumer's Devlog | Homepage
 style: static/style/homepage.css
-custom: static/analytics/analytics_combined_index.txt
+custom: static/analytics/analytics_combined.txt
 tiny>>>
 
 # Devlog of Cardboard Cars by [Canburak Tümer](https://canburaktumer.com)
@@ -38,3 +38,5 @@ All arts below are hand crafted by me either using Resprite on tablet or Aseprit
 
 
 Website colors are inspired by the [Fresh Ink Palette](https://lospec.com/palette-list/fresh-ink) by [Jude Buffum](https://lospec.com/judebuffum).
+
+<a href="#" class="termly-display-preferences">Consent Preferences</a>
