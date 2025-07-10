@@ -39,4 +39,4 @@ All arts below are hand crafted by me either using Resprite on tablet or Aseprit
 
 Website colors are inspired by the [Fresh Ink Palette](https://lospec.com/palette-list/fresh-ink) by [Jude Buffum](https://lospec.com/judebuffum).
 
-<a href="#" class="termly-display-preferences">Consent Preferences</a>
+<center><a href="#" class="termly-display-preferences">Consent Preferences</a> - <a href="static/analytics/policy.html" class="termly-display-preferences"> Cookie Policy</a></center>
