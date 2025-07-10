@@ -4,6 +4,11 @@ style: static/style/homepage.css
 custom: static/analytics/analytics_combined.txt
 tiny>>>
 
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M2DS62Q3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
 # Devlog of Cardboard Cars by [Canburak Tümer](https://canburaktumer.com)
 
 This page is to document my journey for my first ever commercial game development exercise. I will share some notes on development in posts and some grpahics I hand craft under Pixel Art sections.
