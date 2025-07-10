@@ -1,8 +1,5 @@
-<head>
-	<title>Canburak Tumer's Devlog | Plane</title>
-<link rel="stylesheet" href="../../static/style/pixel-art.css">
-<link rel="stylesheet" id="silktide-consent-manager-css" href="../../static/analytics/cookie-banner/silktide-consent-manager.css">
-<script src="../../static/analytics/cookie-banner/silktide-consent-manager.js"></script>
+<link rel="stylesheet" id="silktide-consent-manager-css" href="static/analytics/cookie-banner/silktide-consent-manager.css">
+<script src="static/analytics/cookie-banner/silktide-consent-manager.js"></script>
 <script>
 silktideCookieBannerManager.updateCookieBannerConfig({
   background: {
@@ -64,16 +61,3 @@ silktideCookieBannerManager.updateCookieBannerConfig({
 
   gtag('config', 'G-SWN4Y6DJV9');
 </script>
-</head>
-
-<body>
-
-<h3>Description</h3>
-<p>Well, I love planes. I don't think any more description is needed.</p>
-<h2>Image</h2>
-<p><img alt="" src="../../static/pixel-art/Plane-v1.gif" /></p>
-
-<hr /><center>
-Created using <a href="https://github.com/CanburakTumer/tiniest_static_website"> Tiniest Static Website </a> on 2025-07-10 20:55:24.247283
-</center>
-</body>

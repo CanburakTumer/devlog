@@ -1,6 +1,7 @@
 <<<tiny
 title: Canburak Tumer's Devlog | Homepage
 style: static/style/homepage.css
+custom: static/analytics/analytics_combined_index.txt
 tiny>>>
 
 # Devlog of Cardboard Cars by [Canburak Tümer](https://canburaktumer.com)
