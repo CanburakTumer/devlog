@@ -1,12 +1,13 @@
 <<<tiny
 title: Canburak Tumer's Devlog | Tablets
 style: ../../static/style/pixel-art.css
-custom: static/analytics/analytics_combined.txt
+custom_head: static/analytics/analytics_combined.txt
+custom_body_start: static/html/page_body_start.html
 tiny>>>
 ### Description
 Same tablet on different resolutions, an experiment for me to see how canvas sizes effect my work. For example I learnt that 128x128 does not fit on my tablet's screen comfortably.
 
 ## Image
-![](../../static/pixel-art/Tablet-XS.gif)
-![](../../static/pixel-art/Tablet-S.gif)
-![](../../static/pixel-art/Tablet-M.gif)
+![art](../../static/pixel-art/Tablet-XS.gif)
+![art](../../static/pixel-art/Tablet-S.gif)
+![art](../../static/pixel-art/Tablet-M.gif)

@@ -1,11 +1,12 @@
 <<<tiny
 title: Canburak Tumer's Devlog | Fox
 style: ../../static/style/pixel-art.css
-custom: static/analytics/analytics_combined.txt
-tiny>>>
-
-## Image
-![](../../static/pixel-art/Fox-v1.gif)
+custom_head: static/analytics/analytics_combined.txt
+custom_body_start: static/html/page_body_start.html
 
 ### Description
 Just a try to draw a face of an animal. Nothing fancy.
+tiny>>>
+
+## Image
+![art](../../static/pixel-art/Fox-v1.gif)

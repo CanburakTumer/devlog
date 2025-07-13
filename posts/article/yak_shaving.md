@@ -1,7 +1,8 @@
 <<<tiny
 title: Canburak Tumer's Devlog | Yak Shaving
 style: ../../static/style/blog.css
-custom: static/analytics/analytics_combined.txt
+custom_head: static/analytics/analytics_combined.txt
+custom_body_start: static/html/page_body_start.html
 tiny>>>
 
 ## I am still shaving the yak

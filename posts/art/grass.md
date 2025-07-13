@@ -1,11 +1,12 @@
 <<<tiny
 title: Canburak Tumer's Devlog | Grass in the Wind
 style: ../../static/style/pixel-art.css
-custom: static/analytics/analytics_combined.txt
+custom_head: static/analytics/analytics_combined.txt
+custom_body_start: static/html/page_body_start.html
 tiny>>>
 
 ### Description
 First animation try. I decided to go for something that seems simple and tried some grass moving in the wind. It can be part of a game in the future. Why not?
 
 ## Image
-![](../../static/pixel-art/Grass.gif)
+![art](../../static/pixel-art/Grass.gif)

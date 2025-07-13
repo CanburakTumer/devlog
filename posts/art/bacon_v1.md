@@ -1,11 +1,12 @@
 <<<tiny
 title: Canburak Tumer's Devlog | Breakfast
 style: ../../static/style/pixel-art.css
-custom: static/analytics/analytics_combined.txt
+custom_head: static/analytics/analytics_combined.txt
+custom_body_start: static/html/page_body_start.html
 tiny>>>
 
 ### Description
 First thing I did in the morning even before having breakfast, and you could have guessed that.
 
 ## Image
-![](../../static/pixel-art/Bacon-v1.gif)
+![art](../../static/pixel-art/Bacon-v1.gif)

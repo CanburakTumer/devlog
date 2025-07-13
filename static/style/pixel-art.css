@@ -1,4 +1,4 @@
-img[alt=art] { height: 16px; }
+img[alt=art] { height: 256px; }
 
 body {
   background-color: #cab588;
@@ -22,4 +22,8 @@ tr {
 
 a {
   color: #a33f35;
+}
+
+p {
+  width: 720px;
 }
