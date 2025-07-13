@@ -20,6 +20,7 @@ All arts below are hand crafted by me either using Resprite on tablet or Aseprit
 
 | Date Created |Thumbnail | Name | Size (WxH) | Animated (T/F) |
 |--------------|----------|------|------------|----------------|
+| 2025-07-13 |![art](static/pixel-art/Bee.gif)| [Bee](posts/art/bee.html) | 32x32 | False |
 | 2025-07-04 |![art](static/pixel-art/Sun-v1.gif)| [Sonnie](posts/art/sun_v1.html) | 32x32 | True |
 | 2025-06-29 |![art](static/pixel-art/Sbahn.gif)| [Sbahn](posts/art/sbahn.html) | 64x32 | False |
 | 2025-06-29 |![art](static/pixel-art/Aang.gif)| [Avatar State](posts/art/aang.html) | 32x32 | False |
