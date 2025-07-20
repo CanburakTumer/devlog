@@ -13,11 +13,11 @@ Then on the "New Sprite" dialog window, it asked for the canvas size to create. 
 
 So I tried the 16x16 first, which worked well for [duckie](../art/duckie.html), then I scaled 32x32 and then 64x64 to test out them. Finally I created a canvas that is 128x128 and I deleted the file right after creating it. Why? Let me show you.
 
-![128x128 canvas on full screen](images/128.png)
+![art](images/128.png)
 
 As a newbie, I want to see the whole canvas on the screen so I can work on the full image. Working on smaller sections can be something I will do in the future, but at the moment to keep the colors, lines, perspective, shadows and all other things aligned I need to see the whole image. Also gridlines on the canvas helps me to think and plan easier. So 128x128 was a no-go. At least on the tablet I have. If you look at the following image, you might get the idea of gridlines.
 
-![64x64 canvas](images/64.png)
+![art](images/64.png)
 
 Then I scaled even one more step down. Because 64x64 was just [too big for me](https://www.youtube.com/shorts/iT74VY-h_k0), it requires more attention to detail and better knowledge of color usage etc. On 32x32 level "compression" actually helps with this. Anything that is smaller than 32x32, a newbie like me can easily drop the details that actually gives life to the image and I want to avoid that. 
 
