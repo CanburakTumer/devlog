@@ -1,4 +1,4 @@
-img[alt=art] { height: 256px; }
+img[alt=art] { width: 640px; }
 
 body {
   background-color: #cab588;
