@@ -11,7 +11,7 @@ This page is to document my journey for my first ever commercial game developmen
 All links are ordered in reverse chronogical order.
 
 ## [Blog Posts]
-2025-07-13 - [What is my ideal canvas size?](posts/article/pixelart_canvas_size.html)
+2025-07-20 - [What is my ideal canvas size?](posts/article/pixelart_canvas_size.html)  
 2025-07-13 - [Should I tell a story?](posts/article/story_telling.html)  
 2025-07-05 - [Still Shaving the Yak](posts/article/yak_shaving.html)  
 
