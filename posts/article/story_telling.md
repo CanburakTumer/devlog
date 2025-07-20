@@ -1,5 +1,5 @@
 <<<tiny
-title: Canburak Tumer's Devlog | Story Telling
+title: Story Telling | Canburak Tumer's Devlog
 style: ../../static/style/blog.css
 custom_head: static/analytics/analytics_combined.txt
 custom_body_start: static/html/page_body_start.html

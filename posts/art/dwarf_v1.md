@@ -1,5 +1,5 @@
 <<<tiny
-title: Canburak Tumer's Devlog | Ottoman Dwarf
+title: Ottoman Dwarf | Canburak Tumer's Devlog
 style: ../../static/style/pixel-art.css
 custom_head: static/analytics/analytics_combined.txt
 custom_body_start: static/html/page_body_start.html
